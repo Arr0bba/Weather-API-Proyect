@@ -13,7 +13,7 @@ The mobile app sends XML documents containing weather observations. The API vali
 ## Files 
 - observation1.xml (clear sky)
 - observation2.xml (rain)
-- observations.xsd (validates both)
+- observation-schema.xsd (validates both)
 
 ## Sources
 * Fields are partially based on real parameters from AEMET OpenData (Spanish Meteorological Agency).
