@@ -4,7 +4,7 @@ XML RESTful API Project. Mobile app that sends citizen weather observations in X
 
 ## Description of the App and the API
 
-This project proposes a mobile application (WeatherObserver App) that allows users to submit real-time weather observations from their location. The data is sent in XML format to a RESTful API (Node.js/Express) that validates it against an XML Schema and stores it in a remote database or cumulative XML file.
+This project proposes a mobile application (WeatherObserver App) that allows users to submit real-time weather observations from their location. The data is sent in XML format to a RESTful API (npm/Node.js) that validates it against an XML Schema and stores it in a remote database or cumulative XML file.
 
 ## Data exchanged between App and API
 
