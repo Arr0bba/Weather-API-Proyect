@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<observations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="observation-schema.xsd">
+    <observation>
+        <location>
+            <latitude>41.3851</latitude>
+            <longitude>2.1734</longitude>
+            <city>Barcelona</city>
+        </location>
+        <date>2026-01-20T14:15:00</date>
+        <temperature>15.0</temperature>
+        <perceivedTemperature>13</perceivedTemperature>
+        <humidity>85</humidity>
+        <skyCondition>overcast</skyCondition>
+        <precipitation>5.2</precipitation>
+        <comment>Light rain started suddenly, streets getting wet</comment>
+    </observation>
+</observations>

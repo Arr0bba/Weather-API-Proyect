@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<observations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:noNamespaceSchemaLocation="observation-schema.xsd">
+    <observation>
+        <location>
+            <latitude>40.4168</latitude>
+            <longitude>-3.7038</longitude>
+            <city>Madrid</city>
+        </location>
+        <date>2026-01-21T17:30:00</date>
+        <temperature>12.5</temperature>
+        <perceivedTemperature>10</perceivedTemperature>
+        <humidity>65</humidity>
+        <skyCondition>clear</skyCondition>
+        <precipitation>0</precipitation>
+        <comment>No clouds visible</comment>
+    </observation>
+</observations>
